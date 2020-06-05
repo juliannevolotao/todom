@@ -8,6 +8,13 @@
 <p align="center">
     <img alt="Switch button" src=".github/preview.gif"  width="600px" >
 </p>
+<h5 align="center">
+  Javascript &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; HTML &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; CSS 
+  <br>
+  LocalStorage
+</h5>
+
+
 
 <br/>
 <br/>

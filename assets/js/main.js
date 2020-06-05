@@ -3,7 +3,7 @@ let todoList = [];
 
 // Ao clicar no botão salvar, cria-se uma tarefa
 const createTodo = () => {
-
+  
   let inputData = document.getElementById('inpt_todo').value;
 
   if(inputData.length !== 0){
@@ -25,6 +25,7 @@ const createTodo = () => {
 
 // Cria-se uma linha da tabela
 const createTable = (data, index) => {
+
 
   let line = document.createElement('tr');
   line.id
